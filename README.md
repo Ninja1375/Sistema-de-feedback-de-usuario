@@ -1,4 +1,8 @@
-**Sistema de Feedback do Usuário**
+## Instruções para Uso
+
+O arquivo **index.html** pode ser usado diretamente no GitHub Pages, mas se você for **executar o projeto em um servidor PHP localmente**, **salve o arquivo como `index.php`** para que o PHP funcione corretamente e o formulário seja processado. 
+
+🚨**IMPORTANTE:**🚨 Ao usar em um servidor PHP, não se esqueça de renomear o arquivo **`index.html`** para **`index.php`** para que o processamento PHP ocorra corretamente.
 
 ## Projeto Online: ##
 
