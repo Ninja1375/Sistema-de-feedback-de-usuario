@@ -97,7 +97,7 @@ Arquivo de armazenamento local contendo os feedbacks enviados.
 
 ## Como Visualizar o Projeto ##
 
-**O projeto está hospedado gratuitamente no InfinityFree e pode ser acessado pelos links:**
+**O projeto está hospedado gratuitamente no [https://www.infinityfree.com/](https://www.infinityfree.com/) e pode ser acessado pelos links:**
 
 ***Página Inicial (Formulário):***
 
