@@ -4,7 +4,7 @@
 
 **Página Inicial:**
 
-**[feedbackusuario.42web.io](feedbackusuario.42web.io)**
+**[feedbackusuario.42web.io](feedbackusuario.42web.io/)**
 
 **Lista de Feedbacks**
 
