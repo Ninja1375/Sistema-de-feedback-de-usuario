@@ -2,17 +2,17 @@
 
 O arquivo **index.html** pode ser usado diretamente no GitHub Pages, mas se você for **executar o projeto em um servidor PHP localmente**, **salve o arquivo como `index.php`** para que o PHP funcione corretamente e o formulário seja processado. 
 
-🚨**IMPORTANTE:**🚨 Ao usar em um servidor PHP, não se esqueça de renomear o arquivo **`index.html`** para **`index.php`** para que o processamento PHP ocorra corretamente.
+🚨 **IMPORTANTE:** 🚨 Ao usar em um servidor PHP, não se esqueça de renomear o arquivo **`index.html`** para **`index.php`** para que o processamento PHP ocorra corretamente.
 
 ## Projeto Online: ##
 
 **Página Inicial:**
 
-**[feedbackusuario.42web.io](http://feedbackusuario.42web.io/)**
+**[http://feedbackusuario.42web.io](http://feedbackusuario.42web.io)**
 
 **Lista de Feedbacks**
 
-**[feedbackusuario.42web.io/feedbacks.php](feedbackusuario.42web.io/feedbacks.php)**
+**[http://feedbackusuario.42web.io/feedbacks.php](http://feedbackusuario.42web.io/feedbacks.php)**
 
 ## Descrição ##
 
@@ -75,7 +75,7 @@ Adicionar uma opção para remover feedbacks indesejados.
 
 ## Arquivos do Projeto ##
 
-**índex.php**
+**índex.html**
 
 Página inicial do projeto com o formulário de envio de feedbacks.
 
@@ -101,11 +101,11 @@ Arquivo de armazenamento local contendo os feedbacks enviados.
 
 ***Página Inicial (Formulário):***
 
-**[feedbackusuario.42web.io](feedbackusuario.42web.io)**
+**[http://feedbackusuario.42web.io](http://feedbackusuario.42web.io)**
 
 ***Comentários Salvos:*** 
 
-**[feedbackusuario.42web.io/feedbacks.php](feedbackusuario.42web.io/feedbacks.php)**
+**[http://feedbackusuario.42web.io/feedbacks.php](http://feedbackusuario.42web.io/feedbacks.php)**
 
 ## Contribuições ##
 
